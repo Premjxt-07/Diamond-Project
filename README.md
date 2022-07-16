@@ -40,14 +40,10 @@ Click [here](https://www.kaggle.com/shivam2503/diamonds/download) to download th
 
 ### Executing program
 
-Cell by cell execution in series from start to end. Please read the comments in each cell as some have information regarding when to run.
+Cell by cell execution in series from start to end. Read the comments for smooth execution.
 
 
-## Author
-
-Contributor names and contact info
-
-Ankit Oscar Xalxo  
+ 
 Email : ankitoscar911@gmail.com
 
 ## Version History
